@@ -1,4 +1,7 @@
-# MA1805-FinalInteractiveProject
+MA1805-FinalInteractiveProject
+
+https://sumaiyahx.github.io/MA1805-FinalInteractiveProject/
+
 
 What inspired me for this project was my culture. Growing up as a South Asian female in the UK I used to feel overlooked in the media, especially in terms of fashion and jewellery. When South Asian style of jewellery was shown it was treated as something exotic rather than pieces with cultural meaning behind it. That is why I decided to base my project around my culture as it is something that's very meaningful to me and something that I am proud of.
 
